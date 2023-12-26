@@ -7,4 +7,7 @@ The clone directory worked and the file was copied to the local file system.
 But the git status command still not working properly. FOUND ITTT. we NEED TO SAVE THE FILE IN VSCODE TO GET (M) next to the file. Now we can get the proper status
 # next change made in index html file
 # git commit 
+We need to specify the file with git add <file> before commiting
 needs to be with -m "message" which is a message explaining the change/ description
+# To commit all files together
+We use 1st git add --all and then git commit -m ![Alt text](image.png)
