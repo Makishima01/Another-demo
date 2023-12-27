@@ -17,3 +17,7 @@ use ssh key. Generation pic in discord
 # sshkey generation. in disc
 Why? there is the private key which is the test key and the public key is the one which is fine to show online.
 The ssh key is used to show github that it's you.( only you can generate the public key from your private key)
+# ls grep testkey 
+to show which keys 
+# cat testkey.pub 
+to show how public key looks like
