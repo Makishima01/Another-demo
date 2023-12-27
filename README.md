@@ -21,3 +21,5 @@ The ssh key is used to show github that it's you.( only you can generate the pub
 to show which keys 
 # cat testkey.pub 
 to show how public key looks like
+# now git push 
+to push the files from local to github. syntax = git push origin main (for the main branch)
